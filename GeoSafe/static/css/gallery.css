@@ -1,0 +1,27 @@
+.firstJum{
+  margin-top:50px;
+}
+.jumbotron{
+  color:#2c3e50;
+  background:#ecf0f1;
+}
+.userIcon{
+  margin:8px;
+  font-size: 1.6rem;
+}
+.first-navbar-brand{
+  width: 125px;
+}
+.imagesDescription{
+  text-align: center;
+}
+/* audio button */
+.Fixed{
+  position: fixed;
+  top: 40%;
+  left:2%;
+}
+.btn:focus,.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
